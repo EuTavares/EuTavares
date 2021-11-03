@@ -25,7 +25,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eutavares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eutavares&layout=compact&langs_count=7&theme=dracula"/>
   <br>
-  ![Snake animation](https://github.com/EuTavares/EuTavares/dist/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/EuTavares/EuTavares/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
