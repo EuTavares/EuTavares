@@ -58,11 +58,15 @@
    <a href="https://twitter.com/L33NH0M99" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
    </a> 
+  <a href="https://dev.to/eutavares" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
+   </a> 
+  
    <br><br>
    <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=L33NH0M99&layout=wide&show_reply=off&show_retweet=off" />
 </div>
 
-
+## 🤌🏽 &nbsp;Memes
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 
